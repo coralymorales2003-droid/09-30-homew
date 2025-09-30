@@ -1,1 +1,2 @@
-# 09-30-homew
+# homework-1
+html code, imagenes, texto
